@@ -91,7 +91,7 @@ All code is **tested by me before being used or shared**, even if I do not fully
 
 AI helps me experiment faster and build tools that improve my Linux workflow.
 
-The final responsibility for anything published here remains with me.
+The ownership for anything published here remains with me, but if you choose to use it, then that is on you.
 
 ---
 
