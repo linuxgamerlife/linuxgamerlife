@@ -75,23 +75,27 @@ I am not a Linux expert. I share what I learn as I go.
 
 ---
 
-# AI Transparency
+## AI Transparency
 
-I use generative AI as a **support tool**, not a replacement for my ideas or judgement.
+I use generative AI as a support tool when creating scripts, tools, and software. AI assists with tasks such as writing code, explaining technical concepts, and generating implementation ideas.
 
-AI may be used for:
+I am not a professional software developer and I rely heavily on AI during development. To introduce structure and guardrails around this process, I maintain a set of engineering and security standards within this repository.
 
-- Writing assistance
-- Idea brainstorming
-- Explaining technical concepts clearly
-- Generating Bash scripts or small utilities
+These standards cover areas such as:
 
-I am not a developer, so I may rely heavily on AI when creating scripts or tools.  
-All code is **tested by me before being used or shared**, even if I do not fully understand every internal detail of how it works.
+- C++ / Qt development practices
+- Secure design review
+- Handling of privileged system operations
+- Release integrity
+- Responsible use of AI-assisted development
 
-AI helps me experiment faster and build tools that improve my Linux workflow.
+Not all projects or code published here will necessarily follow these standards fully. Some tools may be experimental, incomplete, or shared for learning and exploration.
 
-The ownership for anything published here remains with me, but if you choose to use it, then that is on you.
+AI-generated code is treated as untrusted, but verification, testing, or security analysis may not always be performed before code is published.
+
+If you choose to use anything from this repository, you do so entirely at your own risk.
+
+All software is provided under the terms of the MIT licence and is distributed **"as is" without warranty of any kind.**
 
 ---
 
