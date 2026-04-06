@@ -81,7 +81,7 @@ I am not a Linux expert. I share what I learn as I go.
 
 I use generative AI as a support tool when creating scripts, tools, and software. AI assists with tasks such as writing code, explaining technical concepts, and generating implementation ideas.
 
-I am not a professional software developer and I rely heavily on AI during development. To introduce structure and guardrails around this process, I maintain a set of engineering and security standards within this repository.
+I am not a developer and I rely heavily on AI during development. To introduce structure and guardrails around this process, I maintain a set of engineering and security standards within this repository.
 
 These standards cover areas such as:
 
