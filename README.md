@@ -62,6 +62,8 @@ Topics include:
 
 I am not a Linux expert. I share what I learn as I go.
 
+Caveat: I do use a Mac Mini for Adobe PS and Davinci resolve. That's closer to Linux than Windows so all good, right?
+
 ---
 
 # Current Interests
