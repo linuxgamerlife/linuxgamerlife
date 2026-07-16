@@ -2,7 +2,7 @@
 
 Linux user. Gamer. Creator. Curious builder.
 
-I switched from Windows to Linux after 30 years and now run Linux for everything.  
+I switched from Windows to Linux after 30 years and now run Linux for everything (alomost).  
 This GitHub exists to document what I learn, build, and experiment with along the way.
 
 My focus is practical Linux use for real people. Gaming, content creation, automation, and tools that make Linux easier to live with every day.
