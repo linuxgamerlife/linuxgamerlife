@@ -83,13 +83,20 @@ I use generative AI as a support tool when creating scripts, tools, and software
 
 I am not a developer and I rely heavily on AI during development. To introduce structure and guardrails around this process, I maintain a set of engineering and security standards within this repository.
 
-These standards cover areas such as:
+These standards apply to:
 
-- C++ / Qt development practices
-- Secure design review
-- Handling of privileged system operations
-- Release integrity
-- Responsible use of AI-assisted development
+- software developed under the LinuxGamerLife project
+- applications that interact with system configuration
+- projects using AI-assisted development
+
+| Standard | Status |
+|--------|--------|
+| C++ / Qt Development Standard | Active |
+| Privileged Operations Standard | WIP |
+| Secure Design Review Standard | WIP |
+| Release Integrity Standard | WIP |
+| AI-Assisted Development Safety Standard | WIP |
+| Secure Web Application Development Standard | Active |
 
 Not all projects or code published here will necessarily follow these standards fully. Some tools may be experimental, incomplete, or shared for learning and exploration.
 
