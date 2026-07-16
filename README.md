@@ -79,7 +79,7 @@ Caveat: I do use a Mac Mini for Adobe PS and Davinci resolve. That's closer to L
 
 ## AI Transparency
 
-100% Vibe Coded | Inteligently Prompted
+100% Vibe Coded | Intelligently Prompted
 
 Scoff at that if you wish, but you do need to have some level of inteligence to be able to create the apps I have created. And although I have not really learned any code whatsoever along the way, I have learned about bash, git, push, pull commit, copr, rpm, scm, different languages, using an IDE, and a whole host of other things!
 
