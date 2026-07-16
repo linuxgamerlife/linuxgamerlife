@@ -81,7 +81,7 @@ Caveat: I do use a Mac Mini for Adobe PS and Davinci resolve. That's closer to L
 
 100% Vibe Coded | Intelligently Prompted
 
-Scoff at that if you wish, but you do need to have some level of inteligence to be able to create the apps I have created. And although I have not really learned any code whatsoever along the way, I have learned about bash, git, push, pull commit, copr, rpm, scm, different languages, using an IDE, and a whole host of other things!
+Scoff at that if you wish, but you do need to have some level of intelligence to be able to create the apps I have created. And although I have not really learned any code whatsoever along the way, I have learned about bash, git, push, pull commit, copr, rpm, scm, different languages, using an IDE, and a whole host of other things!
 
 I use generative AI as a support tool when creating scripts, tools, and software. AI assists with tasks such as writing code, explaining technical concepts, and generating implementation ideas.
 
